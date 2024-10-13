@@ -78,27 +78,27 @@ Copyright (c) 2024 The Galactic Swarm Corporation [TGSC]
    b. The Licensor reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you, in which event you will fully cooperate with the Licensor in asserting any available defenses.
 
 ### 10. Limitation of Liability
-    a. IN NO EVENT SHALL THE LICENSOR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, INCLUDING BUT NOT LIMITED TO LOST PROFITS, BUSINESS INTERRUPTION, OR LOSS OF DATA, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
-    b. THE LICENSOR'S TOTAL LIABILITY TO YOU FOR DIRECT DAMAGES FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID BY YOU, IF ANY, FOR THE SOFTWARE.  
-    c. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+   a. IN NO EVENT SHALL THE LICENSOR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, INCLUDING BUT NOT LIMITED TO LOST PROFITS, BUSINESS INTERRUPTION, OR LOSS OF DATA, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+   b. THE LICENSOR'S TOTAL LIABILITY TO YOU FOR DIRECT DAMAGES FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID BY YOU, IF ANY, FOR THE SOFTWARE.  
+   c. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
 
 ### 11. Compliance with Laws
-    a. You agree to comply with all applicable laws, regulations, and industry standards when using the Software, including but not limited to laws related to data privacy, export control, and intellectual property rights.  
-    b. You agree not to use the Software for any unlawful or unauthorized purpose, and to notify the Licensor promptly of any suspected unlawful or unauthorized use of the Software.
+   a. You agree to comply with all applicable laws, regulations, and industry standards when using the Software, including but not limited to laws related to data privacy, export control, and intellectual property rights.  
+   b. You agree not to use the Software for any unlawful or unauthorized purpose, and to notify the Licensor promptly of any suspected unlawful or unauthorized use of the Software.
 
 ### 12. Open Source Compliance
-    a. If the Software or any part thereof is subject to an open source license, you agree to comply with the terms and conditions of such license in addition to the terms of this License.  
-    b. You agree not to take any action that could be reasonably construed as attempting to circumvent or undermine the open source license terms applicable to the Software or any part thereof.
+   a. If the Software or any part thereof is subject to an open source license, you agree to comply with the terms and conditions of such license in addition to the terms of this License.  
+   b. You agree not to take any action that could be reasonably construed as attempting to circumvent or undermine the open source license terms applicable to the Software or any part thereof.
 
 ### 13. Miscellaneous
-    a. This License shall be governed by and construed in accordance with the laws of the State of California, United States of America, without giving effect to any principles of conflicts of law.  
-    b. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.  
-    c. The failure of the Licensor to enforce any of the provisions of this License at any time shall in no way be construed to be a present or future waiver of such provisions, nor in any way affect the right of the Licensor to enforce each and every such provision thereafter.  
-    d. The Licensor reserves the right to modify or update this License at any time, with reasonable notice to you. Any such modifications or updates will not apply retroactively to your prior use of the Software.  
-    e. This License constitutes the entire agreement between you and the Licensor with respect to the use of the Software, and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between you and the Licensor.  
-    f. You may not assign or transfer this License or any of the rights or obligations under this License without the prior written consent of the Licensor.  
-    g. The headings and section titles in this License are for convenience only and shall not affect the interpretation of the License.  
-    h. If any provision of this License is found to be invalid or unenforceable, the remaining provisions shall be enforced to the maximum extent possible.  
-    i. This License is binding upon your successors, assigns, and legal representatives.
+   a. This License shall be governed by and construed in accordance with the laws of the State of California, United States of America, without giving effect to any principles of conflicts of law.  
+   b. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.  
+   c. The failure of the Licensor to enforce any of the provisions of this License at any time shall in no way be construed to be a present or future waiver of such provisions, nor in any way affect the right of the Licensor to enforce each and every such provision thereafter.  
+   d. The Licensor reserves the right to modify or update this License at any time, with reasonable notice to you. Any such modifications or updates will not apply retroactively to your prior use of the Software.  
+   e. This License constitutes the entire agreement between you and the Licensor with respect to the use of the Software, and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between you and the Licensor.  
+   f. You may not assign or transfer this License or any of the rights or obligations under this License without the prior written consent of the Licensor.  
+   g. The headings and section titles in this License are for convenience only and shall not affect the interpretation of the License.  
+   h. If any provision of this License is found to be invalid or unenforceable, the remaining provisions shall be enforced to the maximum extent possible.  
+   i. This License is binding upon your successors, assigns, and legal representatives.
 
 By using, copying, modifying, merging, publishing, distributing, sublicensing, or selling copies of the Software, you indicate your acceptance of the terms and conditions of this License.
